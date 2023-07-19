@@ -28,7 +28,8 @@ Users can create an account and log into the platform.
 
 Users can view popular streams, videos, and clips no matter they are logged in or not
 
-![popular](https://i.ibb.co/4g0RZPg/popular.png)
+![popular](https://github.com/ziangit/PersonalizedTwitchPlatform/assets/110576506/573669cc-bef8-4888-8dcf-f3e43a2100b3)
+
 
 ### Search
 
