@@ -3,7 +3,7 @@ This project is a personalized Twitch platform designed for users to store resou
 Through accessing this online platform, users can get the unique expeirence of searching and storing twitch streams, videos, and clips and receive recommendations 
 based on their past experience.
 
-For stability purpose, this project is deployed to AWS EC2. 
+For stability purpose, this project is deployed to AWS EC2. <br />
 Check it out here: 
 https://sfzrcsb9na.us-east-2.awsapprunner.com/
 
