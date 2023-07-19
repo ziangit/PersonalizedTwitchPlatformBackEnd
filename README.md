@@ -4,7 +4,8 @@ Through accessing this online platform, users can get the unique expeirence of s
 based on their past experience.
 
 For stability purpose, this project is deployed to AWS EC2. 
-Check it out here: https://sfzrcsb9na.us-east-2.awsapprunner.com/
+Check it out here: 
+https://sfzrcsb9na.us-east-2.awsapprunner.com/
 
 For the front end of this project:
 //todo
