@@ -35,15 +35,17 @@ Users can view popular streams, videos, and clips no matter they are logged in o
 
 Users can search for contents they are willing to view through the custom search
 
-![search](https://i.ibb.co/2d2mpK9/search.png)
+![search](https://github.com/ziangit/PersonalizedTwitchPlatform/assets/110576506/4045f673-1aba-46cb-8564-5cbadbc2c697)
+
 
 ### Add to favorite
 
 Users can add contents to favorite lists and store for future use after they log in
 
-![favorite](https://i.ibb.co/DC5rw8w/favorite.png)
+![favorite](https://github.com/ziangit/PersonalizedTwitchPlatform/assets/110576506/4b7ca5fb-bec6-4106-81ad-7d998669ec61)
 
-![myfavorite](https://i.ibb.co/JBKMmYk/myfavorite.png)
+![myfavorite](https://github.com/ziangit/PersonalizedTwitchPlatform/assets/110576506/acca2b74-0104-41e6-b4af-7eb05632a097)
+
 
 ### Logout
 
