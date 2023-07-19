@@ -22,6 +22,7 @@ Users can create an account and log into the platform.
 
 ![Register](https://i.ibb.co/pKYmJsd/register.png)
 
+
 ### View popular Streams, Videos, and Clips
 
 Users can view popular streams, videos, and clips no matter they are logged in or not
