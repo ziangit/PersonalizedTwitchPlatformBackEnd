@@ -19,6 +19,7 @@ This application provides a user-friendly interface for a twitch content platfor
 Users can create an account and log into the platform. 
 
 ![Login](https://i.ibb.co/rbTq5zk/login.png)
+
 ![Register](https://i.ibb.co/pKYmJsd/register.png)
 
 ### View popular Streams, Videos, and Clips
