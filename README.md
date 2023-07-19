@@ -8,7 +8,7 @@ Check it out here:
 https://sfzrcsb9na.us-east-2.awsapprunner.com/
 
 For the front end of this project:
-//todo
+https://github.com/ziangit/PersonalizedTwitchPlatformFrontEnd
 
 ## Features
 
