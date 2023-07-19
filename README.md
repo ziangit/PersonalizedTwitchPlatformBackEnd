@@ -18,7 +18,7 @@ This application provides a user-friendly interface for a twitch content platfor
 
 Users can create an account and log into the platform. 
 
-![Login](https://i.ibb.co/rbTq5zk/login.png)
+![login](https://github.com/ziangit/PersonalizedTwitchPlatform/assets/110576506/8ca80574-04d9-4de1-92ec-bc96ce860911)
 
 ![register](https://github.com/ziangit/PersonalizedTwitchPlatform/assets/110576506/2ef9b76d-b5c1-4d6d-98fa-f2bb9c2a5ecf)
 
