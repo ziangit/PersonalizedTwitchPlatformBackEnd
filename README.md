@@ -65,7 +65,11 @@ I am working on the recommendation algorithm different from the twitch official 
 
 ### Notification
 
-In future, users can get their favorite uploaders' streaming notifications on Twitter, Discord, QQ, and other social apps.  
+In future, users can get their favorite uploaders' streaming notifications on Twitter, Discord, QQ, and other social apps. 
+
+### Other Versions
+
+I also want to build a Bilibili version
 
 
 Stay tuned for these exciting updates!
