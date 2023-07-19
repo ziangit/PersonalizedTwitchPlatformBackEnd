@@ -20,7 +20,8 @@ Users can create an account and log into the platform.
 
 ![Login](https://i.ibb.co/rbTq5zk/login.png)
 
-![Register](https://i.ibb.co/pKYmJsd/register.png)
+![register](https://github.com/ziangit/PersonalizedTwitchPlatform/assets/110576506/2ef9b76d-b5c1-4d6d-98fa-f2bb9c2a5ecf)
+
 
 
 ### View popular Streams, Videos, and Clips
